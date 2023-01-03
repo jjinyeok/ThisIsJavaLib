@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73dbdeb6-1654-4bc6-bc0d-6f2268450412" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam01/EqualsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam01/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam02/HashCodeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam02/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam03/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam03/ToStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam04/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam04/RecordExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec03/exam05/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec04/ErrExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec04/ExitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec04/GetPropertyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec04/InExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec04/MeasureRunTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec05/BytesToStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec05/StringBuilderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec05/StringTokenizerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec06/BoxingUnBoxingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec06/ValueCompareExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ThisIsJavaLib" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JokGy2PeD4v8CEF8Y40INelfGQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ValueCompareExample">
+    <configuration name="BoxingUnBoxingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.sec06.BoxingUnBoxingExample" />
+      <module name="ThisIsJavaLib.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12.sec06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BytesToStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.sec05.BytesToStringExample" />
+      <module name="ThisIsJavaLib.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12.sec05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.sec05.StringBuilderExample" />
+      <module name="ThisIsJavaLib.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12.sec05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTokenizerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.sec05.StringTokenizerExample" />
+      <module name="ThisIsJavaLib.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12.sec05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueCompareExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.sec06.ValueCompareExample" />
+      <module name="ThisIsJavaLib.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12.sec06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ValueCompareExample" />
+        <item itemvalue="Application.BoxingUnBoxingExample" />
+        <item itemvalue="Application.StringTokenizerExample" />
+        <item itemvalue="Application.StringBuilderExample" />
+        <item itemvalue="Application.BytesToStringExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73dbdeb6-1654-4bc6-bc0d-6f2268450412" name="Changes" comment="" />
+      <created>1672751731914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672751731914</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
