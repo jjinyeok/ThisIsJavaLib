@@ -4,25 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73dbdeb6-1654-4bc6-bc0d-6f2268450412" name="Changes" comment="[01/03] ch12 java.base 모듈 (1/2)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec07/MathExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec07/RandomExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec08/CalendarExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec08/DateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec08/DateTimeCompareExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec08/DateTimeOperationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec08/LosAngelesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec08/PrintTimeZoneId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec09/DecimalFormatExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec09/SimpleDateFormatExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec10/PatternExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec11/exam01/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec11/exam01/GetClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec11/exam02/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec11/exam02/ReflectionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec12/PrintAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec12/PrintAnnotationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch12/sec12/Service.java" afterDir="false" />
+    <list default="true" id="73dbdeb6-1654-4bc6-bc0d-6f2268450412" name="Changes" comment="[01/06] ch12 java.base 모듈 (2/2)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec01/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec01/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam01/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam01/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam01/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam02/CarAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam02/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam02/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam02/HomeAgency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam02/Rentable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam03/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec02/exam03/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec03/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec03/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec04/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec05/Applicant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec05/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec05/GenericExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch13/sec05/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +60,8 @@
       <list>
         <option value="Record" />
         <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -86,13 +91,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintAnnotationExample">
-    <configuration name="DecimalFormatExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12.sec09.DecimalFormatExample" />
+  <component name="RunManager" selected="Application.ch13.sec05.GenericExample">
+    <configuration name="ch13.sec02.exam02.GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.sec02.exam02.GenericExample" />
       <module name="ThisIsJavaLib.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12.sec10.*" />
+          <option name="PATTERN" value="ch13.sec02.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12.sec11.exam01.GetClassExample" />
+    <configuration name="ch13.sec02.exam03.GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.sec02.exam03.GenericExample" />
       <module name="ThisIsJavaLib.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12.sec11.exam01.*" />
+          <option name="PATTERN" value="ch13.sec02.exam03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintAnnotationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12.sec12.PrintAnnotationExample" />
+    <configuration name="ch13.sec03.GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.sec03.GenericExample" />
       <module name="ThisIsJavaLib.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12.sec12.*" />
+          <option name="PATTERN" value="ch13.sec03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12.sec11.exam02.ReflectionExample" />
+    <configuration name="ch13.sec04.GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.sec04.GenericExample" />
       <module name="ThisIsJavaLib.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12.sec11.exam02.*" />
+          <option name="PATTERN" value="ch13.sec04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleDateFormatExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch12.sec09.SimpleDateFormatExample" />
+    <configuration name="ch13.sec05.GenericExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13.sec05.GenericExample" />
       <module name="ThisIsJavaLib.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch12.sec10.*" />
+          <option name="PATTERN" value="ch13.sec05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintAnnotationExample" />
-        <item itemvalue="Application.ReflectionExample" />
-        <item itemvalue="Application.GetClassExample" />
-        <item itemvalue="Application.SimpleDateFormatExample" />
-        <item itemvalue="Application.DecimalFormatExample" />
+        <item itemvalue="Application.ch13.sec05.GenericExample" />
+        <item itemvalue="Application.ch13.sec04.GenericExample" />
+        <item itemvalue="Application.ch13.sec03.GenericExample" />
+        <item itemvalue="Application.ch13.sec02.exam03.GenericExample" />
+        <item itemvalue="Application.ch13.sec02.exam02.GenericExample" />
       </list>
     </recent_temporary>
   </component>
@@ -178,12 +183,20 @@
       <option name="project" value="LOCAL" />
       <updated>1672757374439</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[01/06] ch12 java.base 모듈 (2/2)">
+      <created>1673013932710</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673013932710</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[01/03] ch12 java.base 모듈 (1/2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="[01/03] ch12 java.base 모듈 (1/2)" />
+    <MESSAGE value="[01/06] ch12 java.base 모듈 (2/2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="[01/06] ch12 java.base 모듈 (2/2)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
